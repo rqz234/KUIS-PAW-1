@@ -10,9 +10,3 @@ let tampilNilai = document.getElementById("nilaimax").innerText = nilai[2];
 let tampilkanNilai = document.getElementById("nilaimax");
 nilai.forEach(angkaTertinggi)
 
-function angkaTertinggi(value, data){
-    console.log(value)
-    
-}
-
-
