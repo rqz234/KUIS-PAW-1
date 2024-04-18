@@ -17,5 +17,4 @@ function showHobi(value, index)
 function showNama(value, index)
 {
     console.log(value);
-
 }
