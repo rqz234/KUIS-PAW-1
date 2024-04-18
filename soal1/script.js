@@ -1,7 +1,5 @@
 // lanjutkan script ini ya ...
-let nama = "Arif";
-let tampilNama = document.getElementById("nama")
-
+let nama = document.getElementById("nama", "arif");
 
 let hobi = ["Baca", "Bermain Game", "Belajar Coding"];
 let listhobi = document.getElementById("listhobi");
